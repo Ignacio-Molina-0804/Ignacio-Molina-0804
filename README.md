@@ -4,10 +4,10 @@
 
 ---
 
-- Estudiante de la Tecnicatura en Programación (UTN) -
-- Desarrollador Frontend & Backend -
-- Apasionado por React, Java, Spring Boot y APIs REST - 
-- Buscando mi primera experiencia profesional en IT - 
+ - Estudiante de la Tecnicatura en Programación (UTN) -
+ - Desarrollador Frontend & Backend -
+ - Apasionado por React, Java, Spring Boot y APIs REST - 
+ - Buscando mi primera experiencia profesional en IT - 
 
 ---
 
