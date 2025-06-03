@@ -1,3 +1,5 @@
+<div align="center">
+
 ## 👋 ¡Hola! Soy Ignacio
 
 🧑‍💻 Estudiante de la Tecnicatura en Programación (UTN)  
@@ -10,20 +12,19 @@
 ### 🛠️ Tecnologías
 
 **Frontend:**  
-React, JavaScript (ES6+), HTML, CSS, Bootstrap, Tailwind
+React • JavaScript (ES6+) • HTML • CSS • Bootstrap • Tailwind
 
 **Backend:**  
-Java, Spring Boot, MySQL, H2, API REST, JPA/Hibernate
+Java • Spring Boot • MySQL • H2 • API REST • JPA/Hibernate
 
 **Herramientas:**  
-Git, GitHub, Swagger, Postman, VS Code, IntelliJ, Trello
+Git • GitHub • Swagger • Postman • VS Code • IntelliJ • Trello
 
 ---
 
 ### 🌎 Idiomas
 
-- Español: Nativo  
-- Inglés Técnico: Intermedio
+Español: Nativo • Inglés Técnico: Intermedio
 
 ---
 
@@ -36,9 +37,8 @@ Git, GitHub, Swagger, Postman, VS Code, IntelliJ, Trello
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ignacio-Molina-0804&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ignacio-Molina-0804&layout=compact&theme=dracula" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Ignacio-Molina-0804&theme=dracula" height="150" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Ignacio-Molina-0804&show_icons=true&theme=dracula" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ignacio-Molina-0804&layout=compact&theme=dracula" height="150" />
+<img src="https://streak-stats.demolab.com?user=Ignacio-Molina-0804&theme=dracula" height="150" />
 
+</div>
