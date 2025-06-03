@@ -35,19 +35,6 @@ Me apasiona el desarrollo de software y he trabajado en proyectos académicos y 
 
 ---
 
-### 🎓 Educación
-
-**Tecnicatura Universitaria en Programación** – UTN  
-📅 En curso  
-📌 Principales contenidos:  
-- Programación orientada a objetos  
-- Desarrollo web (HTML, CSS, JS)  
-- Java y Spring Boot  
-- Bases de datos relacionales  
-- APIs RESTful y consumo de servicios  
-
----
-
 ### 🌐 Idiomas
 
 - 🇪🇸 Español: Nativo  
@@ -59,10 +46,6 @@ Me apasiona el desarrollo de software y he trabajado en proyectos académicos y 
 
 - 📧 molinagranda@gmail.com 
 - 💼 [LinkedIn](www.linkedin.com/in/ignacio-ezequiel-molina-granda-2a2aa6272)  
-
-
-⭐ ¡Gracias por visitar mi perfil! No dudes en mirar mis proyectos destacados 👇
-
 
 ### GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ignacio-Molina-0804&theme=highcontrast)](https://git.io/streak-stats)
