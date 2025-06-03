@@ -48,7 +48,9 @@ Me apasiona el desarrollo de software y he trabajado en proyectos académicos y 
 - 💼 [LinkedIn](www.linkedin.com/in/ignacio-ezequiel-molina-granda-2a2aa6272)  
 
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ignacio-Molina-0804&theme=highcontrast)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-Molina-0804&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ignacio-Molina-0804&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ignacio-Molina-0804n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ignacio-Molina-0804&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
