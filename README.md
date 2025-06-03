@@ -22,12 +22,6 @@ Git • GitHub • Swagger • Postman • VS Code • IntelliJ • Trello
 
 ---
 
-### 🌎 Idiomas
-
-Español: Nativo • Inglés Técnico: Intermedio
-
----
-
 ### 📫 Contacto
 
 📧 molinagranda@gmail.com  
