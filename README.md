@@ -12,33 +12,6 @@
 🎓 Actualmente curso la **Tecnicatura Universitaria en Programación** en UTN.  
 Me apasiona el desarrollo de software y he trabajado en proyectos académicos y personales que integran tecnologías del **frontend y backend**.
 
-👨‍💻 **Frontend:**  
-HTML, CSS, JavaScript y React — creando interfaces dinámicas, accesibles y centradas en el usuario.
-
-⚙️ **Backend:**  
-Java con Spring Boot, diseño de APIs RESTful, persistencia con MySQL y H2.  
-Aplico buenas prácticas como arquitectura en capas, uso de DTOs e inyección de dependencias.
-
-📚 Siempre estoy aprendiendo y busco crecer en un entorno profesional colaborando en proyectos reales.
-
----
-
-### 💼 Proyectos
-
-🔧 **Gestor de Tareas Full Stack**  
-🛠 React | Spring Boot | MySQL | API REST  
-- Autenticación de usuarios, CRUD de tareas y filtros por estado.  
-- Frontend en React usando Axios.  
-- Backend con Spring Boot (MVC, DTOs, JPA).  
-- Documentación con Swagger, testing en Postman, control de versiones con Git.
-
-🛍️ **E-commerce Frontend**  
-🛠 HTML | CSS | JavaScript | Bootstrap  
-- Interfaz dinámica con carrito de compras.  
-- Componentes reutilizables y lógica en JS puro.  
-- Responsive design con Bootstrap.  
-- Página publicada en GitHub Pages.
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
