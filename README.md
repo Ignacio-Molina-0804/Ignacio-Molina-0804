@@ -13,8 +13,14 @@
 
 ### 📫 Contacto
 
-📧 molinagranda@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ignacio-ezequiel-molina-granda-2a2aa6272)
+<p>
+  <a href="mailto:molinagranda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ignacio-ezequiel-molina-granda-2a2aa6272" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 <div align="center">
 
