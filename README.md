@@ -4,13 +4,13 @@
 
 ---
 
-🧑‍💻 Estudiante de la Tecnicatura en Programación (UTN) 🧑‍💻 
+<p>- Estudiante de la Tecnicatura en Programación (UTN) -</p>
 
-💻 Desarrollador Frontend & Backend 💻 
+<p>- Desarrollador Frontend & Backend -</p>
 
-🚀 Apasionado por React, Java, Spring Boot y APIs REST 🚀 
+<p>- Apasionado por React, Java, Spring Boot y APIs REST -</p>
 
-🎯 Buscando mi primera experiencia profesional en IT 🎯 
+<p>- Buscando mi primera experiencia profesional en IT -</p>
 
 
 ---
