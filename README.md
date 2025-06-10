@@ -4,7 +4,7 @@
 
 ---
 
-<p>- Estudiante de la Tecnicatura en Programación (UTN) -</p>
+<p>- Recibido de la Tecnicatura en Programación (UTN) -</p>
 
 <p>- Desarrollador Frontend & Backend -</p>
 
