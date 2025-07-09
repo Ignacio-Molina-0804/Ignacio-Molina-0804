@@ -8,7 +8,7 @@
 
 <p>- Desarrollador Frontend & Backend -</p>
 
-<p>- Apasionado por React, Java, Spring Boot y APIs REST -</p>
+<p>- Apasionado por Astro, Java, Spring Boot y APIs REST -</p>
 
 <p>- Buscando mi primera experiencia profesional en IT -</p>
 
