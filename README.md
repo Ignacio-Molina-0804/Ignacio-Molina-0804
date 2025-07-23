@@ -69,6 +69,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ignacio-Molina-0804&show_icons=true&theme=dracula" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ignacio-Molina-0804&layout=compact&theme=dracula" height="150" />
-<img src="https://streak-stats.demolab.com?user=Ignacio-Molina-0804&theme=dracula" height="150" />
+//<img src="https://streak-stats.demolab.com?user=Ignacio-Molina-0804&theme=dracula" height="150" />
 
 </div>
