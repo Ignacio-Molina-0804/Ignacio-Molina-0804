@@ -12,6 +12,10 @@
 
 <p>- Buscando mi primera experiencia profesional en IT -</p>
 
+  <a href="https://portfolio-ignacio-molina.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio%20Web-000000?style=for-the-badge&logoColor=white" />
+  </a>
+
 
 ---
 
@@ -66,6 +70,8 @@
 ---
 
 ### 📊 GitHub Stats
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ignacio-Molina-0804&show_icons=true&theme=dracula" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ignacio-Molina-0804&layout=compact&theme=dracula" height="150" />
