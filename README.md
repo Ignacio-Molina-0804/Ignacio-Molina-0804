@@ -10,8 +10,6 @@
 
 <p>- Apasionado por Astro, Java, Spring Boot y APIs REST -</p>
 
-<p>- Buscando mi primera experiencia profesional en IT -</p>
-
   <a href="https://portfolio-ignacio-molina.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio%20Web-000000?style=for-the-badge&logoColor=white" />
   </a>
