@@ -6,7 +6,7 @@
 
 <p>- Recibido de la Tecnicatura en Programación (UTN) -</p>
 
-<p>- Desarrollador Frontend & Backend -</p>
+<p>- Desarrollador FullStack -</p>
 
 <p>- Apasionado por Astro, Java, Spring Boot y APIs REST -</p>
 
