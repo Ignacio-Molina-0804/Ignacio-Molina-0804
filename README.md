@@ -4,7 +4,7 @@
 
 ---
 
-<p>- Recibido de la Tecnicatura en Programación (UTN) -</p>
+<p><strong>- Recibido de la Tecnicatura en Programación (UTN) -</strong></p>
 
 <p>- Desarrollador FullStack -</p>
 
