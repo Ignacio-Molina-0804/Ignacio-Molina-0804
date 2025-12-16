@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 ¡Hola! Soy Ignacio Molinaaa
+## 👋 ¡Hola! Soy Ignacio Molina
 
 ---
 
