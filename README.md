@@ -73,11 +73,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ignacio-Molina-0804&show_icons=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-Molina-0804&layout=compact&theme=dracula&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Ignacio-Molina-0804&theme=dracula&hide_border=true" height="150" />
+  <img
+    src="https://github-readme-stats-ignacio-molina.vercel.app/api?username=Ignacio-Molina-0804&show_icons=true&theme=dracula&hide_border=true"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats-ignacio-molina.vercel.app/api/top-langs/?username=Ignacio-Molina-0804&layout=compact&theme=dracula&hide_border=true"
+    height="150"
+  />
 </p>
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ignacio-Molina-0804&theme=dracula&hide_border=true"/></a>
 
 </div>
