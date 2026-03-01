@@ -82,5 +82,7 @@
     height="150"
   />
 </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ignacio-Molina-0804&theme=dracula"/></a>
+
 
 </div>
